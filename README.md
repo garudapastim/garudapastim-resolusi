@@ -1,0 +1,2 @@
+# garudapastim-resolusi
+repository garudapastim
